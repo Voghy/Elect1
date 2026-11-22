@@ -1,3 +1,28 @@
+# Electret Microphone Amplifier
+
+**2N2222 · EasyEDA · SPICE**
+
+[English](#english) · [Español](#español)
+
+## English
+
+Three cascaded common-emitter stages designed for a voltage gain of 70 into a 32 Ω load. The team simulated the circuit, laid out and fabricated a PCB, and used an oscilloscope to compare the physical circuit with calculations and simulation.
+
+**Signal path** · Electret capsule → three 2N2222 amplifier stages → 32 Ω load.
+
+## Español
+
+Tres etapas en emisor común en cascada, diseñadas para una ganancia de tensión de 70 con una carga de 32 Ω. El equipo simuló el circuito, diseñó y fabricó la PCB, y comparó las mediciones de osciloscopio con los cálculos y las simulaciones.
+
+**Ruta de señal** · Cápsula electret → tres etapas amplificadoras 2N2222 → carga de 32 Ω.
+
+## Documentation / Documentación
+
+- [Informe técnico local](TPF_Elec1_Alvarez_Romero.pdf)
+- [Documentación y archivos de diseño del proyecto compartido](https://github.com/simplementeUnPorito/analog-electronics-pcb/tree/main/projects/01-electret-microphone-amplifier)
+
+## Original technical notes / Detalles técnicos originales
+
 # 🎙️ Amplificador para Micrófono Electret
 
 Trabajo Práctico Final de **Electrónica I** — Universidad Católica "Nuestra Señora de la Asunción"
